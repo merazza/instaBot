@@ -4,6 +4,7 @@ using namespace std;
 int this_fun(int a, int b, int c)
 {
     return a+b+c;
+    cout<<"this is new aint it?"<<endl;
 }
 
 int main()
